@@ -1,7 +1,7 @@
 .App {
-  display: grid;
-  grid-template-columns: 1fr 1fr 1fr 1fr;
-  grid-gap: 20px;
+  display: flex;
+flex-wrap: wrap;
+  gap: 20px;
   margin: 10px;
 }
 
